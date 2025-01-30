@@ -19,14 +19,14 @@ This Tameable Limit Plugin is a Spigot/Paper plugin designed to manage the limit
 
 4️⃣ All set!
 
-# Permissions
+# Permissions:
 tameablelimit.1 Allows taming one of each tameable mob. (Default: Enabled)
 
 tameablelimit.2 Allows taming two of each tameable mob. (Default: Disabled)
 
 If you need unlimited taming permissions: tameablelimit.x, x is an integre.
 
-# Placeholders
+# Placeholders:
 This plugin supports PlaceholderAPI and registers the following placeholders:
 
 %tameable_tamed_count% Displays the total number of tamed mobs the player owns.
@@ -49,6 +49,7 @@ This plugin supports PlaceholderAPI and registers the following placeholders:
 
 %tameable_camel_count% Shows the number of camels owned by the player.
 
+# Anything Else:
 These placeholders can be used in scoreboards, holograms, and chat messages where everywhere supports PAPI.
 
 
