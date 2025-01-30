@@ -1,0 +1,15 @@
+name: TameableLimit
+version: 1.0.0
+main: com.chatillon7.tameablelimit.TameableLimitPlugin
+api-version: 1.19
+depend: [PlaceholderAPI]
+softdepend: []
+authors: [chatillon7]
+
+permissions:
+  tameablelimit.1:
+    description: Allows taming one of each tameable mob
+    default: true
+  tameablelimit.2:
+    description: Allows taming two of each tameable mob
+    default: false

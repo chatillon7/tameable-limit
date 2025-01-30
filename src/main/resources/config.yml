@@ -1,0 +1,23 @@
+# TameableLimit Plugin Configuration
+
+messages:
+  limit-reached: "&cYou cannot tame anymore mob from this type. [Limit: {limit}]"
+  successful-tame: "&7Successfully tamed mob. [{current}/{limit}]"
+
+settings:
+  # Default minimum tameable mob limit
+  default-limit: 1
+  
+storage:
+  # Available types: JSON, MYSQL, SQLITE
+  type: JSON
+  
+  mysql:
+    host: localhost
+    port: 3306
+    database: minecraft
+    username: root
+    password: password
+    
+# Auto-saving proccess (second)
+auto-save-interval: 300
