@@ -49,9 +49,8 @@ This plugin supports PlaceholderAPI and registers the following placeholders:
 
 %tameable_camel_count% Shows the number of camels owned by the player.
 
-# Anything Else:
 These placeholders can be used in scoreboards, holograms, and chat messages where everywhere supports PAPI.
 
-
+# Anything Else:
 Let me know if you had issues! open issues from the widgets
 and I'll be happy if you give me reviews.
